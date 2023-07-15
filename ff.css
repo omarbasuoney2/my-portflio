@@ -694,6 +694,19 @@ span{
 }
 
 
+@media (max-width:412px){ 
+    .home .home-content .wrapper .dynamic-txts{
+        margin-top: 100px;
+        margin-left: -150px;
+
+    }
+
+    .home .home-content .wrapper .dynamic-txts span{
+        font-size: 30px;
+    }
+}
+
+
 
 
 
